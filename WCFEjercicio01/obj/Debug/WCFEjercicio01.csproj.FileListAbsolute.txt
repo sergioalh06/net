@@ -1,0 +1,9 @@
+c:\users\u201311393\documents\visual studio 2015\Projects\WCFEjercicio01\WCFEjercicio01\bin\Debug\WCFEjercicio01.dll.config
+c:\users\u201311393\documents\visual studio 2015\Projects\WCFEjercicio01\WCFEjercicio01\bin\Debug\WCFEjercicio01.dll
+c:\users\u201311393\documents\visual studio 2015\Projects\WCFEjercicio01\WCFEjercicio01\bin\Debug\WCFEjercicio01.pdb
+c:\users\u201311393\documents\visual studio 2015\Projects\WCFEjercicio01\WCFEjercicio01\bin\Debug\EntityFramework.dll
+c:\users\u201311393\documents\visual studio 2015\Projects\WCFEjercicio01\WCFEjercicio01\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\u201311393\documents\visual studio 2015\Projects\WCFEjercicio01\WCFEjercicio01\bin\Debug\EntityFramework.xml
+c:\users\u201311393\documents\visual studio 2015\Projects\WCFEjercicio01\WCFEjercicio01\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\u201311393\documents\visual studio 2015\Projects\WCFEjercicio01\WCFEjercicio01\obj\Debug\WCFEjercicio01.dll
+c:\users\u201311393\documents\visual studio 2015\Projects\WCFEjercicio01\WCFEjercicio01\obj\Debug\WCFEjercicio01.pdb

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Ejercicio01ModelStoreContainer" CdmEntityContainer="Ejercicio01Entities">
+    <EntitySetMapping Name="Country">
+      <EntityTypeMapping TypeName="Ejercicio01Model.Country">
+        <MappingFragment StoreEntitySet="Country">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Person">
+      <EntityTypeMapping TypeName="Ejercicio01Model.Person">
+        <MappingFragment StoreEntitySet="Person">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Id_Sex" ColumnName="Id_Sex" />
+          <ScalarProperty Name="Id_Country" ColumnName="Id_Country" />
+          <ScalarProperty Name="Id_Status" ColumnName="Id_Status" />
+          <ScalarProperty Name="DNI" ColumnName="DNI" />
+          <ScalarProperty Name="Age" ColumnName="Age" />
+          <ScalarProperty Name="Workclass" ColumnName="Workclass" />
+          <ScalarProperty Name="Fnlwgt" ColumnName="Fnlwgt" />
+          <ScalarProperty Name="Education" ColumnName="Education" />
+          <ScalarProperty Name="Education_num" ColumnName="Education_num" />
+          <ScalarProperty Name="Occupation" ColumnName="Occupation" />
+          <ScalarProperty Name="Relationship" ColumnName="Relationship" />
+          <ScalarProperty Name="Race" ColumnName="Race" />
+          <ScalarProperty Name="Capital_gain" ColumnName="Capital_gain" />
+          <ScalarProperty Name="Capital_loss" ColumnName="Capital_loss" />
+          <ScalarProperty Name="Hours_per_week" ColumnName="Hours_per_week" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Sex">
+      <EntityTypeMapping TypeName="Ejercicio01Model.Sex">
+        <MappingFragment StoreEntitySet="Sex">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Status">
+      <EntityTypeMapping TypeName="Ejercicio01Model.Status">
+        <MappingFragment StoreEntitySet="Status">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Label" ColumnName="Label" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
